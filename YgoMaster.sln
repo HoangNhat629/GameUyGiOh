@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YgoMaster", "YgoMasterServer\YgoMaster.csproj", "{B629B367-CB20-4BA8-B5B5-35D64D465847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YgoMasterClient", "YgoMasterClient.csproj", "{BE0FAEA9-D843-4DA2-9B59-1232DC9E54E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B629B367-CB20-4BA8-B5B5-35D64D465847}.Debug|x64.ActiveCfg = Debug|x64
+		{B629B367-CB20-4BA8-B5B5-35D64D465847}.Debug|x64.Build.0 = Debug|x64
+		{B629B367-CB20-4BA8-B5B5-35D64D465847}.Release|x64.ActiveCfg = Release|x64
+		{B629B367-CB20-4BA8-B5B5-35D64D465847}.Release|x64.Build.0 = Release|x64
+		{BE0FAEA9-D843-4DA2-9B59-1232DC9E54E5}.Debug|x64.ActiveCfg = Debug|x64
+		{BE0FAEA9-D843-4DA2-9B59-1232DC9E54E5}.Debug|x64.Build.0 = Debug|x64
+		{BE0FAEA9-D843-4DA2-9B59-1232DC9E54E5}.Release|x64.ActiveCfg = Release|x64
+		{BE0FAEA9-D843-4DA2-9B59-1232DC9E54E5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

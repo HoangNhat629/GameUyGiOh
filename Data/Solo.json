@@ -1,0 +1,5576 @@
+{
+  "code": 0,
+  "res": [
+    [
+      0,
+      {
+        "Master": {
+          "Solo": {
+            "gate": {
+              "1": {
+                "priority": 1,
+                "parent_gate": 0,
+                "unlock_id": 0,
+                "view_gate": 0,
+                "clear_chapter": 10003
+              },
+              "2": {
+                "priority": 19,
+                "parent_gate": 21,
+                "unlock_id": 8,
+                "view_gate": 5,
+                "clear_chapter": 20120
+              },
+              "3": {
+                "priority": 20,
+                "parent_gate": 21,
+                "unlock_id": 10,
+                "view_gate": 5,
+                "clear_chapter": 30126
+              },
+              "4": {
+                "priority": 15,
+                "parent_gate": 0,
+                "unlock_id": 7,
+                "view_gate": 5,
+                "clear_chapter": 40018
+              },
+              "5": {
+                "priority": 6,
+                "parent_gate": 0,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 50021
+              },
+              "6": {
+                "priority": 7,
+                "parent_gate": 0,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 60025
+              },
+              "7": {
+                "priority": 8,
+                "parent_gate": 0,
+                "unlock_id": 2,
+                "view_gate": 5,
+                "clear_chapter": 70037
+              },
+              "8": {
+                "priority": 9,
+                "parent_gate": 0,
+                "unlock_id": 3,
+                "view_gate": 5,
+                "clear_chapter": 80043
+              },
+              "9": {
+                "priority": 10,
+                "parent_gate": 0,
+                "unlock_id": 2,
+                "view_gate": 5,
+                "clear_chapter": 90049
+              },
+              "10": {
+                "priority": 11,
+                "parent_gate": 0,
+                "unlock_id": 4,
+                "view_gate": 5,
+                "clear_chapter": 100055
+              },
+              "11": {
+                "priority": 12,
+                "parent_gate": 0,
+                "unlock_id": 5,
+                "view_gate": 5,
+                "clear_chapter": 110061
+              },
+              "12": {
+                "priority": 13,
+                "parent_gate": 0,
+                "unlock_id": 6,
+                "view_gate": 5,
+                "clear_chapter": 120067
+              },
+              "13": {
+                "priority": 14,
+                "parent_gate": 0,
+                "unlock_id": 5,
+                "view_gate": 5,
+                "clear_chapter": 130073
+              },
+              "14": {
+                "priority": 16,
+                "parent_gate": 0,
+                "unlock_id": 8,
+                "view_gate": 5,
+                "clear_chapter": 140079
+              },
+              "15": {
+                "priority": 17,
+                "parent_gate": 0,
+                "unlock_id": 9,
+                "view_gate": 5,
+                "clear_chapter": 150085
+              },
+              "16": {
+                "priority": 25,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 160091
+              },
+              "17": {
+                "priority": 23,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 170099
+              },
+              "19": {
+                "priority": 26,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 190109
+              },
+              "20": {
+                "priority": 49,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 200139
+              },
+              "21": {
+                "priority": 18,
+                "parent_gate": 0,
+                "unlock_id": 8,
+                "view_gate": 5,
+                "clear_chapter": 230184
+              },
+              "22": {
+                "priority": 4,
+                "parent_gate": 31,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 220150
+              },
+              "23": {
+                "priority": 21,
+                "parent_gate": 21,
+                "unlock_id": 14,
+                "view_gate": 5,
+                "clear_chapter": 230184
+              },
+              "24": {
+                "priority": 34,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 240195
+              },
+              "26": {
+                "priority": 27,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 260211
+              },
+              "27": {
+                "priority": 28,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 270219
+              },
+              "28": {
+                "priority": 29,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 280226
+              },
+              "29": {
+                "priority": 50,
+                "parent_gate": 0,
+                "unlock_id": 13,
+                "view_gate": 5,
+                "clear_chapter": 290240
+              },
+              "30": {
+                "priority": 5,
+                "parent_gate": 31,
+                "unlock_id": 15,
+                "view_gate": 1,
+                "clear_chapter": 300247
+              },
+              "31": {
+                "priority": 3,
+                "parent_gate": 0,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 300247
+              },
+              "32": {
+                "priority": 31,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 320259
+              },
+              "35": {
+                "priority": 32,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 350283
+              },
+              "36": {
+                "priority": 30,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 360290
+              },
+              "37": {
+                "priority": 33,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 370301
+              },
+              "40": {
+                "priority": 40,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 400322
+              },
+              "41": {
+                "priority": 41,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 410329
+              },
+              "43": {
+                "priority": 43,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 430344
+              },
+              "45": {
+                "priority": 44,
+                "parent_gate": 0,
+                "unlock_id": 11,
+                "view_gate": 5,
+                "clear_chapter": 450367
+              },
+              "48": {
+                "priority": 2,
+                "parent_gate": 0,
+                "unlock_id": 1,
+                "view_gate": 1,
+                "clear_chapter": 480391
+              }
+            },
+            "chapter": {
+              "1": {
+                "10001": {
+                  "parent_chapter": 0,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 110,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1000
+                },
+                "10002": {
+                  "parent_chapter": 10001,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1120001,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1001
+                },
+                "10003": {
+                  "parent_chapter": 10002,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 110,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1074
+                }
+              },
+              "2": {
+                "20004": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13060,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00020004",
+                  "npc_id": 0
+                },
+                "20006": {
+                  "parent_chapter": 20004,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13061,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00020006",
+                  "npc_id": 0
+                },
+                "20007": {
+                  "parent_chapter": 20151,
+                  "difficulty": 2,
+                  "mydeck_set_id": 13086,
+                  "set_id": 13087,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1002
+                },
+                "20008": {
+                  "parent_chapter": 20007,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13096,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00020008",
+                  "npc_id": 0
+                },
+                "20026": {
+                  "parent_chapter": 20008,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13097,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00020026",
+                  "npc_id": 0
+                },
+                "20119": {
+                  "parent_chapter": 20026,
+                  "difficulty": 3,
+                  "mydeck_set_id": 13089,
+                  "set_id": 13088,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1003
+                },
+                "20120": {
+                  "parent_chapter": 20119,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13062,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00020120",
+                  "npc_id": 0
+                },
+                "20121": {
+                  "parent_chapter": 20119,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12002,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "20122": {
+                  "parent_chapter": 20155,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140104,
+                  "set_id": 1012001,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1004
+                },
+                "20151": {
+                  "parent_chapter": 20006,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1002
+                },
+                "20152": {
+                  "parent_chapter": 20007,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12001,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "20153": {
+                  "parent_chapter": 20152,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1070002,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1072
+                },
+                "20154": {
+                  "parent_chapter": 20153,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012021,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1073
+                },
+                "20155": {
+                  "parent_chapter": 20121,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1005,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1003
+                }
+              },
+              "3": {
+                "30009": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13110,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00030009",
+                  "npc_id": 0
+                },
+                "30010": {
+                  "parent_chapter": 30009,
+                  "difficulty": 4,
+                  "mydeck_set_id": 13274,
+                  "set_id": 13290,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1005
+                },
+                "30011": {
+                  "parent_chapter": 30010,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13238,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00030011",
+                  "npc_id": 0
+                },
+                "30012": {
+                  "parent_chapter": 30010,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12003,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "30013": {
+                  "parent_chapter": 30156,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1090006,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1006
+                },
+                "30014": {
+                  "parent_chapter": 30013,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012002,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1007
+                },
+                "30123": {
+                  "parent_chapter": 30011,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13612,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00030123",
+                  "npc_id": 0
+                },
+                "30124": {
+                  "parent_chapter": 30123,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13570,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00030124",
+                  "npc_id": 0
+                },
+                "30125": {
+                  "parent_chapter": 30124,
+                  "difficulty": 4,
+                  "mydeck_set_id": 13391,
+                  "set_id": 13611,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1008
+                },
+                "30126": {
+                  "parent_chapter": 30125,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13625,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00030126",
+                  "npc_id": 0
+                },
+                "30127": {
+                  "parent_chapter": 30125,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12004,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "30128": {
+                  "parent_chapter": 30127,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1000010,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1009
+                },
+                "30129": {
+                  "parent_chapter": 30128,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140104,
+                  "set_id": 1012003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1010
+                },
+                "30156": {
+                  "parent_chapter": 30012,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1005,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1006
+                }
+              },
+              "4": {
+                "40015": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 6117,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00040015",
+                  "npc_id": 0
+                },
+                "40017": {
+                  "parent_chapter": 40158,
+                  "difficulty": 3,
+                  "mydeck_set_id": 13251,
+                  "set_id": 12336,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1035
+                },
+                "40018": {
+                  "parent_chapter": 40017,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1120010,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00040018",
+                  "npc_id": 0
+                },
+                "40027": {
+                  "parent_chapter": 40017,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10904,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "40028": {
+                  "parent_chapter": 40027,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1111002,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1036
+                },
+                "40029": {
+                  "parent_chapter": 40028,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012004,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1037
+                },
+                "40158": {
+                  "parent_chapter": 40015,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1035
+                }
+              },
+              "5": {
+                "50019": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 11204,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00050019",
+                  "npc_id": 0
+                },
+                "50020": {
+                  "parent_chapter": 50159,
+                  "difficulty": 2,
+                  "mydeck_set_id": 9114,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1041
+                },
+                "50021": {
+                  "parent_chapter": 50020,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1120012,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00050021",
+                  "npc_id": 0
+                },
+                "50022": {
+                  "parent_chapter": 50020,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10804,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "50030": {
+                  "parent_chapter": 50022,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 805,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1042
+                },
+                "50031": {
+                  "parent_chapter": 50030,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012005,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1043
+                },
+                "50159": {
+                  "parent_chapter": 50019,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1041
+                }
+              },
+              "6": {
+                "60023": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13578,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00060023",
+                  "npc_id": 0
+                },
+                "60024": {
+                  "parent_chapter": 60160,
+                  "difficulty": 2,
+                  "mydeck_set_id": 13577,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1026
+                },
+                "60025": {
+                  "parent_chapter": 60024,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13735,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00060025",
+                  "npc_id": 0
+                },
+                "60032": {
+                  "parent_chapter": 60024,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10904,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "60033": {
+                  "parent_chapter": 60032,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 13580,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1027
+                },
+                "60034": {
+                  "parent_chapter": 60033,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012006,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1028
+                },
+                "60160": {
+                  "parent_chapter": 60023,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1026
+                }
+              },
+              "7": {
+                "70035": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 6900,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00070035",
+                  "npc_id": 0
+                },
+                "70036": {
+                  "parent_chapter": 70161,
+                  "difficulty": 3,
+                  "mydeck_set_id": 12021,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1032
+                },
+                "70037": {
+                  "parent_chapter": 70036,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1120013,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00070037",
+                  "npc_id": 0
+                },
+                "70038": {
+                  "parent_chapter": 70036,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10804,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "70039": {
+                  "parent_chapter": 70038,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1000002,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1033
+                },
+                "70040": {
+                  "parent_chapter": 70039,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012007,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1034
+                },
+                "70161": {
+                  "parent_chapter": 70035,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1032
+                }
+              },
+              "8": {
+                "80041": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 14845,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00080041",
+                  "npc_id": 0
+                },
+                "80042": {
+                  "parent_chapter": 80162,
+                  "difficulty": 3,
+                  "mydeck_set_id": 5910,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1044
+                },
+                "80043": {
+                  "parent_chapter": 80042,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 14847,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00080043",
+                  "npc_id": 0
+                },
+                "80044": {
+                  "parent_chapter": 80042,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11004,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "80045": {
+                  "parent_chapter": 80044,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 14846,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1045
+                },
+                "80046": {
+                  "parent_chapter": 80045,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012008,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1046
+                },
+                "80162": {
+                  "parent_chapter": 80041,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1303,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1044
+                }
+              },
+              "9": {
+                "90047": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 11532,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00090047",
+                  "npc_id": 0
+                },
+                "90048": {
+                  "parent_chapter": 90163,
+                  "difficulty": 3,
+                  "mydeck_set_id": 8898,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1029
+                },
+                "90049": {
+                  "parent_chapter": 90048,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1120014,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00090049",
+                  "npc_id": 0
+                },
+                "90050": {
+                  "parent_chapter": 90048,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11004,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "90051": {
+                  "parent_chapter": 90050,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 11728,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1030
+                },
+                "90052": {
+                  "parent_chapter": 90051,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012009,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1031
+                },
+                "90163": {
+                  "parent_chapter": 90047,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1029
+                }
+              },
+              "10": {
+                "100053": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00100053",
+                  "npc_id": 0
+                },
+                "100054": {
+                  "parent_chapter": 100164,
+                  "difficulty": 3,
+                  "mydeck_set_id": 803,
+                  "set_id": 1303,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1017
+                },
+                "100055": {
+                  "parent_chapter": 100054,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1120011,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00100055",
+                  "npc_id": 0
+                },
+                "100056": {
+                  "parent_chapter": 100054,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11304,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "100057": {
+                  "parent_chapter": 100056,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1205,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1018
+                },
+                "100058": {
+                  "parent_chapter": 100057,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012010,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1019
+                },
+                "100164": {
+                  "parent_chapter": 100053,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1017
+                }
+              },
+              "11": {
+                "110059": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 4416,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00110059",
+                  "npc_id": 0
+                },
+                "110060": {
+                  "parent_chapter": 110165,
+                  "difficulty": 3,
+                  "mydeck_set_id": 7008,
+                  "set_id": 9285,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1023
+                },
+                "110061": {
+                  "parent_chapter": 110060,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00110061",
+                  "npc_id": 0
+                },
+                "110062": {
+                  "parent_chapter": 110060,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11004,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "110063": {
+                  "parent_chapter": 110062,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1000015,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1024
+                },
+                "110064": {
+                  "parent_chapter": 110063,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012011,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1025
+                },
+                "110165": {
+                  "parent_chapter": 110059,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1023
+                }
+              },
+              "12": {
+                "120065": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00120065",
+                  "npc_id": 0
+                },
+                "120066": {
+                  "parent_chapter": 120166,
+                  "difficulty": 3,
+                  "mydeck_set_id": 15556,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1011
+                },
+                "120067": {
+                  "parent_chapter": 120066,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1120009,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00120067",
+                  "npc_id": 0
+                },
+                "120068": {
+                  "parent_chapter": 120066,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11204,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "120069": {
+                  "parent_chapter": 120068,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 805,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1012
+                },
+                "120070": {
+                  "parent_chapter": 120069,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012012,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1013
+                },
+                "120166": {
+                  "parent_chapter": 120065,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1011
+                }
+              },
+              "13": {
+                "130071": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 9647,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00130071",
+                  "npc_id": 0
+                },
+                "130072": {
+                  "parent_chapter": 130167,
+                  "difficulty": 3,
+                  "mydeck_set_id": 10883,
+                  "set_id": 10157,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1020
+                },
+                "130073": {
+                  "parent_chapter": 130072,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00130073",
+                  "npc_id": 0
+                },
+                "130074": {
+                  "parent_chapter": 130072,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11004,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "130075": {
+                  "parent_chapter": 130074,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1000014,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1021
+                },
+                "130076": {
+                  "parent_chapter": 130075,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012013,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1022
+                },
+                "130167": {
+                  "parent_chapter": 130071,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1020
+                }
+              },
+              "14": {
+                "140077": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 12132,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00140077",
+                  "npc_id": 0
+                },
+                "140078": {
+                  "parent_chapter": 140168,
+                  "difficulty": 3,
+                  "mydeck_set_id": 12135,
+                  "set_id": 12133,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1038
+                },
+                "140079": {
+                  "parent_chapter": 140078,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00140079",
+                  "npc_id": 0
+                },
+                "140080": {
+                  "parent_chapter": 140078,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11104,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "140081": {
+                  "parent_chapter": 140080,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 12345,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1039
+                },
+                "140082": {
+                  "parent_chapter": 140081,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012014,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1040
+                },
+                "140168": {
+                  "parent_chapter": 140077,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1038
+                }
+              },
+              "15": {
+                "150083": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 11357,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00150083",
+                  "npc_id": 0
+                },
+                "150084": {
+                  "parent_chapter": 150169,
+                  "difficulty": 3,
+                  "mydeck_set_id": 11559,
+                  "set_id": 11541,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1047
+                },
+                "150085": {
+                  "parent_chapter": 150084,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00150085",
+                  "npc_id": 0
+                },
+                "150086": {
+                  "parent_chapter": 150084,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10804,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "150087": {
+                  "parent_chapter": 150086,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1001004,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1048
+                },
+                "150088": {
+                  "parent_chapter": 150087,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012015,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1049
+                },
+                "150169": {
+                  "parent_chapter": 150083,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1047
+                }
+              },
+              "16": {
+                "160089": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00160089",
+                  "npc_id": 0
+                },
+                "160090": {
+                  "parent_chapter": 160170,
+                  "difficulty": 3,
+                  "mydeck_set_id": 6705,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1014
+                },
+                "160091": {
+                  "parent_chapter": 160090,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00160091",
+                  "npc_id": 0
+                },
+                "160092": {
+                  "parent_chapter": 160090,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12008,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "160093": {
+                  "parent_chapter": 160092,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1005,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1015
+                },
+                "160094": {
+                  "parent_chapter": 160093,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012016,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1016
+                },
+                "160170": {
+                  "parent_chapter": 160089,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1303,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1014
+                }
+              },
+              "17": {
+                "170095": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 7591,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00170095",
+                  "npc_id": 0
+                },
+                "170096": {
+                  "parent_chapter": 170171,
+                  "difficulty": 3,
+                  "mydeck_set_id": 9769,
+                  "set_id": 7593,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1056
+                },
+                "170097": {
+                  "parent_chapter": 170096,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 7723,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00170097",
+                  "npc_id": 0
+                },
+                "170098": {
+                  "parent_chapter": 170172,
+                  "difficulty": 3,
+                  "mydeck_set_id": 9793,
+                  "set_id": 13063,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1059
+                },
+                "170099": {
+                  "parent_chapter": 170098,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 7643,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00170099",
+                  "npc_id": 0
+                },
+                "170100": {
+                  "parent_chapter": 170096,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12006,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "170130": {
+                  "parent_chapter": 170100,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 905,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1057
+                },
+                "170131": {
+                  "parent_chapter": 170130,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012017,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1058
+                },
+                "170132": {
+                  "parent_chapter": 170098,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12006,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "170133": {
+                  "parent_chapter": 170132,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 805,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1060
+                },
+                "170134": {
+                  "parent_chapter": 170133,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140104,
+                  "set_id": 1012018,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1061
+                },
+                "170171": {
+                  "parent_chapter": 170095,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1056
+                },
+                "170172": {
+                  "parent_chapter": 170097,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1059
+                }
+              },
+              "19": {
+                "190107": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 6692,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00190107",
+                  "npc_id": 0
+                },
+                "190108": {
+                  "parent_chapter": 190174,
+                  "difficulty": 3,
+                  "mydeck_set_id": 10661,
+                  "set_id": 6693,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1053
+                },
+                "190109": {
+                  "parent_chapter": 190108,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00190109",
+                  "npc_id": 0
+                },
+                "190110": {
+                  "parent_chapter": 190108,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10904,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "190111": {
+                  "parent_chapter": 190110,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 13963,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1054
+                },
+                "190112": {
+                  "parent_chapter": 190111,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012020,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1055
+                },
+                "190174": {
+                  "parent_chapter": 190107,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1053
+                }
+              },
+              "20": {
+                "200113": {
+                  "parent_chapter": 0,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1062
+                },
+                "200114": {
+                  "parent_chapter": 200113,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1063
+                },
+                "200115": {
+                  "parent_chapter": 200114,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1064
+                },
+                "200116": {
+                  "parent_chapter": 200115,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1065
+                },
+                "200117": {
+                  "parent_chapter": 200116,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1066
+                },
+                "200118": {
+                  "parent_chapter": 200117,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1111001,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1067
+                },
+                "200135": {
+                  "parent_chapter": 200118,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1068
+                },
+                "200136": {
+                  "parent_chapter": 200135,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1069
+                },
+                "200137": {
+                  "parent_chapter": 200136,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1070
+                },
+                "200138": {
+                  "parent_chapter": 200137,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1071
+                },
+                "200139": {
+                  "parent_chapter": 200138,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1101002,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 0
+                }
+              },
+              "22": {
+                "220140": {
+                  "parent_chapter": 220146,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 112,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3001
+                },
+                "220141": {
+                  "parent_chapter": 220140,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 112,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3002
+                },
+                "220142": {
+                  "parent_chapter": 220141,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 112,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3003
+                },
+                "220143": {
+                  "parent_chapter": 220142,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 112,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3004
+                },
+                "220144": {
+                  "parent_chapter": 0,
+                  "difficulty": 1,
+                  "mydeck_set_id": 4343,
+                  "set_id": 0,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3005
+                },
+                "220145": {
+                  "parent_chapter": 220144,
+                  "difficulty": 1,
+                  "mydeck_set_id": 4842,
+                  "set_id": 0,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3006
+                },
+                "220146": {
+                  "parent_chapter": 220145,
+                  "difficulty": 2,
+                  "mydeck_set_id": 11563,
+                  "set_id": 0,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3007
+                },
+                "220147": {
+                  "parent_chapter": 220146,
+                  "difficulty": 2,
+                  "mydeck_set_id": 5328,
+                  "set_id": 0,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3008
+                },
+                "220148": {
+                  "parent_chapter": 220147,
+                  "difficulty": 2,
+                  "mydeck_set_id": 7645,
+                  "set_id": 0,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3009
+                },
+                "220149": {
+                  "parent_chapter": 220148,
+                  "difficulty": 2,
+                  "mydeck_set_id": 1101001,
+                  "set_id": 0,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3010
+                },
+                "220150": {
+                  "parent_chapter": 220149,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1000009,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 0
+                }
+              },
+              "23": {
+                "230175": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13730,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230175",
+                  "npc_id": 0
+                },
+                "230176": {
+                  "parent_chapter": 230175,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1071001,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230176",
+                  "npc_id": 0
+                },
+                "230177": {
+                  "parent_chapter": 230176,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230177",
+                  "npc_id": 0
+                },
+                "230178": {
+                  "parent_chapter": 230177,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230178",
+                  "npc_id": 0
+                },
+                "230179": {
+                  "parent_chapter": 230178,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230179",
+                  "npc_id": 0
+                },
+                "230180": {
+                  "parent_chapter": 230179,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13771,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230180",
+                  "npc_id": 0
+                },
+                "230181": {
+                  "parent_chapter": 230180,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 20001,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "230182": {
+                  "parent_chapter": 230181,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1303,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1084
+                },
+                "230183": {
+                  "parent_chapter": 230182,
+                  "difficulty": 4,
+                  "mydeck_set_id": 13731,
+                  "set_id": 13789,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1084
+                },
+                "230184": {
+                  "parent_chapter": 230183,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 13957,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230184",
+                  "npc_id": 0
+                },
+                "230185": {
+                  "parent_chapter": 230180,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230185",
+                  "npc_id": 0
+                },
+                "230186": {
+                  "parent_chapter": 230185,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1071002,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00230186",
+                  "npc_id": 0
+                },
+                "230187": {
+                  "parent_chapter": 230183,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10806,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "230188": {
+                  "parent_chapter": 230187,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 13958,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1084
+                },
+                "230189": {
+                  "parent_chapter": 230188,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1110006,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1085
+                },
+                "230190": {
+                  "parent_chapter": 230189,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140104,
+                  "set_id": 1012026,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1086
+                },
+                "230191": {
+                  "parent_chapter": 230183,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12012,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "230252": {
+                  "parent_chapter": 230191,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1100006,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1082
+                },
+                "230253": {
+                  "parent_chapter": 230252,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012024,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1083
+                }
+              },
+              "24": {
+                "240192": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00240192",
+                  "npc_id": 0
+                },
+                "240193": {
+                  "parent_chapter": 240192,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 8232,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1093
+                },
+                "240194": {
+                  "parent_chapter": 240193,
+                  "difficulty": 3,
+                  "mydeck_set_id": 16823,
+                  "set_id": 1071003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1093
+                },
+                "240195": {
+                  "parent_chapter": 240194,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00240195",
+                  "npc_id": 0
+                },
+                "240196": {
+                  "parent_chapter": 240194,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12010,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "240197": {
+                  "parent_chapter": 240196,
+                  "difficulty": 4,
+                  "mydeck_set_id": 103,
+                  "set_id": 103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1094
+                },
+                "240198": {
+                  "parent_chapter": 240197,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1012022,
+                  "set_id": 1012023,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1095
+                }
+              },
+              "26": {
+                "260206": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 7003,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00260206",
+                  "npc_id": 0
+                },
+                "260207": {
+                  "parent_chapter": 260206,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 6970,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00260207",
+                  "npc_id": 0
+                },
+                "260208": {
+                  "parent_chapter": 260207,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 7007,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00260208",
+                  "npc_id": 0
+                },
+                "260209": {
+                  "parent_chapter": 260208,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1303,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1078
+                },
+                "260210": {
+                  "parent_chapter": 260209,
+                  "difficulty": 2,
+                  "mydeck_set_id": 9544,
+                  "set_id": 7133,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1078
+                },
+                "260211": {
+                  "parent_chapter": 260210,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 7014,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00260211",
+                  "npc_id": 0
+                },
+                "260212": {
+                  "parent_chapter": 260210,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12011,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "260213": {
+                  "parent_chapter": 260212,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1111003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1079
+                },
+                "260214": {
+                  "parent_chapter": 260213,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012028,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1080
+                }
+              },
+              "27": {
+                "270215": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1003,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00270215",
+                  "npc_id": 0
+                },
+                "270216": {
+                  "parent_chapter": 270215,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 5287,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00270216",
+                  "npc_id": 0
+                },
+                "270217": {
+                  "parent_chapter": 270216,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1090
+                },
+                "270218": {
+                  "parent_chapter": 270217,
+                  "difficulty": 3,
+                  "mydeck_set_id": 7470,
+                  "set_id": 7471,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1090
+                },
+                "270219": {
+                  "parent_chapter": 270218,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 14377,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00270219",
+                  "npc_id": 0
+                },
+                "270220": {
+                  "parent_chapter": 270218,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10806,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "270221": {
+                  "parent_chapter": 270220,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1001013,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1091
+                },
+                "270222": {
+                  "parent_chapter": 270221,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012029,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1092
+                }
+              },
+              "28": {
+                "280223": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00280223",
+                  "npc_id": 0
+                },
+                "280224": {
+                  "parent_chapter": 280223,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1303,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1075
+                },
+                "280225": {
+                  "parent_chapter": 280224,
+                  "difficulty": 3,
+                  "mydeck_set_id": 10396,
+                  "set_id": 7012,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1075
+                },
+                "280226": {
+                  "parent_chapter": 280225,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 6618,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00280226",
+                  "npc_id": 0
+                },
+                "280227": {
+                  "parent_chapter": 280225,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12007,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "280228": {
+                  "parent_chapter": 280227,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1071006,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1076
+                },
+                "280229": {
+                  "parent_chapter": 280228,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012030,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1077
+                }
+              },
+              "29": {
+                "290230": {
+                  "parent_chapter": 0,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1096
+                },
+                "290231": {
+                  "parent_chapter": 290230,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1111005,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1097
+                },
+                "290232": {
+                  "parent_chapter": 290231,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1098
+                },
+                "290233": {
+                  "parent_chapter": 290232,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1099
+                },
+                "290234": {
+                  "parent_chapter": 290233,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1100
+                },
+                "290235": {
+                  "parent_chapter": 290234,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1101
+                },
+                "290236": {
+                  "parent_chapter": 290235,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1102
+                },
+                "290237": {
+                  "parent_chapter": 290236,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1103
+                },
+                "290238": {
+                  "parent_chapter": 290237,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1104
+                },
+                "290239": {
+                  "parent_chapter": 290238,
+                  "difficulty": 5,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1140104,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1105
+                },
+                "290240": {
+                  "parent_chapter": 290239,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1000007,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 0
+                }
+              },
+              "30": {
+                "300241": {
+                  "parent_chapter": 0,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 6759,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3011
+                },
+                "300242": {
+                  "parent_chapter": 300241,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 4353,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3013
+                },
+                "300243": {
+                  "parent_chapter": 300242,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 5560,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3014
+                },
+                "300244": {
+                  "parent_chapter": 300243,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 11428,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3016
+                },
+                "300245": {
+                  "parent_chapter": 300244,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 5254,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3017
+                },
+                "300246": {
+                  "parent_chapter": 300241,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 12505,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3012
+                },
+                "300247": {
+                  "parent_chapter": 300249,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1001003,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "300248": {
+                  "parent_chapter": 300243,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3015
+                },
+                "300249": {
+                  "parent_chapter": 300245,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 12405,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3018
+                },
+                "300250": {
+                  "parent_chapter": 300249,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 13457,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3019
+                },
+                "300251": {
+                  "parent_chapter": 300250,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 14299,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3020
+                },
+                "300254": {
+                  "parent_chapter": 300251,
+                  "difficulty": 2,
+                  "mydeck_set_id": 0,
+                  "set_id": 103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3021
+                }
+              },
+              "32": {
+                "320255": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00320255",
+                  "npc_id": 0
+                },
+                "320256": {
+                  "parent_chapter": 320255,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00320256",
+                  "npc_id": 0
+                },
+                "320257": {
+                  "parent_chapter": 320256,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1109
+                },
+                "320258": {
+                  "parent_chapter": 320257,
+                  "difficulty": 3,
+                  "mydeck_set_id": 8493,
+                  "set_id": 9798,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1109
+                },
+                "320259": {
+                  "parent_chapter": 320258,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00320259",
+                  "npc_id": 0
+                },
+                "320260": {
+                  "parent_chapter": 320258,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12014,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "320261": {
+                  "parent_chapter": 320260,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1071008,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1110
+                },
+                "320262": {
+                  "parent_chapter": 320261,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012031,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1111
+                }
+              },
+              "35": {
+                "350280": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00350280",
+                  "npc_id": 0
+                },
+                "350281": {
+                  "parent_chapter": 350280,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1118
+                },
+                "350282": {
+                  "parent_chapter": 350281,
+                  "difficulty": 3,
+                  "mydeck_set_id": 9843,
+                  "set_id": 8186,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1118
+                },
+                "350283": {
+                  "parent_chapter": 350282,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00350283",
+                  "npc_id": 0
+                },
+                "350284": {
+                  "parent_chapter": 350282,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11110,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "350285": {
+                  "parent_chapter": 350284,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1071011,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1119
+                },
+                "350286": {
+                  "parent_chapter": 350285,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012036,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1120
+                }
+              },
+              "36": {
+                "360287": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 16941,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00360287",
+                  "npc_id": 0
+                },
+                "360288": {
+                  "parent_chapter": 360287,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 16940,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1106
+                },
+                "360289": {
+                  "parent_chapter": 360288,
+                  "difficulty": 3,
+                  "mydeck_set_id": 1303,
+                  "set_id": 16942,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1106
+                },
+                "360290": {
+                  "parent_chapter": 360289,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 16634,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00360290",
+                  "npc_id": 0
+                },
+                "360291": {
+                  "parent_chapter": 360289,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12013,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "360292": {
+                  "parent_chapter": 360291,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1071012,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1107
+                },
+                "360293": {
+                  "parent_chapter": 360292,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012037,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1108
+                }
+              },
+              "37": {
+                "370294": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00370294",
+                  "npc_id": 0
+                },
+                "370295": {
+                  "parent_chapter": 370294,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00370295",
+                  "npc_id": 0
+                },
+                "370296": {
+                  "parent_chapter": 370295,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 5915,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1121
+                },
+                "370297": {
+                  "parent_chapter": 370296,
+                  "difficulty": 3,
+                  "mydeck_set_id": 11997,
+                  "set_id": 5245,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1121
+                },
+                "370298": {
+                  "parent_chapter": 370297,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00370296",
+                  "npc_id": 0
+                },
+                "370299": {
+                  "parent_chapter": 370298,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1140102,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00370299",
+                  "npc_id": 0
+                },
+                "370300": {
+                  "parent_chapter": 370299,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1012038,
+                  "set_id": 1071013,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1122
+                },
+                "370301": {
+                  "parent_chapter": 370300,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00370301",
+                  "npc_id": 0
+                },
+                "370302": {
+                  "parent_chapter": 370300,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10812,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "370303": {
+                  "parent_chapter": 370302,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1010009,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1123
+                }
+              },
+              "40": {
+                "400319": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00400319",
+                  "npc_id": 0
+                },
+                "400320": {
+                  "parent_chapter": 400319,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1130
+                },
+                "400321": {
+                  "parent_chapter": 400320,
+                  "difficulty": 3,
+                  "mydeck_set_id": 11403,
+                  "set_id": 10673,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1130
+                },
+                "400322": {
+                  "parent_chapter": 400321,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 803,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00400322",
+                  "npc_id": 0
+                },
+                "400323": {
+                  "parent_chapter": 400321,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10810,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "400324": {
+                  "parent_chapter": 400323,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1071014,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1131
+                },
+                "400325": {
+                  "parent_chapter": 400324,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012042,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1132
+                }
+              },
+              "41": {
+                "410326": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00410326",
+                  "npc_id": 0
+                },
+                "410327": {
+                  "parent_chapter": 410326,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1133
+                },
+                "410328": {
+                  "parent_chapter": 410327,
+                  "difficulty": 3,
+                  "mydeck_set_id": 4992,
+                  "set_id": 4364,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1133
+                },
+                "410329": {
+                  "parent_chapter": 410328,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 903,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00410329",
+                  "npc_id": 0
+                },
+                "410330": {
+                  "parent_chapter": 410328,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 10910,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "410331": {
+                  "parent_chapter": 410330,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1071019,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1134
+                },
+                "410332": {
+                  "parent_chapter": 410331,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012046,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1135
+                }
+              },
+              "43": {
+                "430340": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00430340",
+                  "npc_id": 0
+                },
+                "430341": {
+                  "parent_chapter": 430340,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1203,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00430341",
+                  "npc_id": 0
+                },
+                "430342": {
+                  "parent_chapter": 430341,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1303,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1124
+                },
+                "430343": {
+                  "parent_chapter": 430342,
+                  "difficulty": 3,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1124
+                },
+                "430344": {
+                  "parent_chapter": 430343,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 16824,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00430344",
+                  "npc_id": 0
+                },
+                "430345": {
+                  "parent_chapter": 430343,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 12016,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "430346": {
+                  "parent_chapter": 430345,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1071018,
+                  "set_id": 1012045,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1125
+                },
+                "430347": {
+                  "parent_chapter": 430346,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012044,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1126
+                }
+              },
+              "45": {
+                "450364": {
+                  "parent_chapter": 0,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00450364",
+                  "npc_id": 0
+                },
+                "450365": {
+                  "parent_chapter": 450364,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1142
+                },
+                "450366": {
+                  "parent_chapter": 450365,
+                  "difficulty": 3,
+                  "mydeck_set_id": 17429,
+                  "set_id": 17468,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1142
+                },
+                "450367": {
+                  "parent_chapter": 450366,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1103,
+                  "unlock_id": 0,
+                  "begin_sn": "Sr00450367",
+                  "npc_id": 0
+                },
+                "450368": {
+                  "parent_chapter": 450366,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 0,
+                  "unlock_id": 11110,
+                  "begin_sn": "",
+                  "npc_id": 0
+                },
+                "450369": {
+                  "parent_chapter": 450368,
+                  "difficulty": 4,
+                  "mydeck_set_id": 1140102,
+                  "set_id": 1071023,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1143
+                },
+                "450370": {
+                  "parent_chapter": 450369,
+                  "difficulty": 5,
+                  "mydeck_set_id": 104,
+                  "set_id": 1012051,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 1144
+                }
+              },
+              "48": {
+                "480386": {
+                  "parent_chapter": 0,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 6960,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3022
+                },
+                "480387": {
+                  "parent_chapter": 480386,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 5213,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3023
+                },
+                "480388": {
+                  "parent_chapter": 480387,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 8976,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3024
+                },
+                "480389": {
+                  "parent_chapter": 480388,
+                  "difficulty": 1,
+                  "mydeck_set_id": 0,
+                  "set_id": 5544,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3025
+                },
+                "480390": {
+                  "parent_chapter": 480389,
+                  "difficulty": 1,
+                  "mydeck_set_id": 104,
+                  "set_id": 0,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 3026
+                },
+                "480391": {
+                  "parent_chapter": 480390,
+                  "difficulty": 0,
+                  "mydeck_set_id": 0,
+                  "set_id": 1111016,
+                  "unlock_id": 0,
+                  "begin_sn": "",
+                  "npc_id": 0
+                }
+              }
+            },
+            "unlock": {
+              "1": {
+                "2": [
+                  10003
+                ]
+              },
+              "2": {
+                "4": [
+                  50021,
+                  60025
+                ]
+              },
+              "3": {
+                "2": [
+                  70037
+                ]
+              },
+              "4": {
+                "2": [
+                  90049
+                ]
+              },
+              "5": {
+                "4": [
+                  70037,
+                  90049
+                ]
+              },
+              "6": {
+                "2": [
+                  110061
+                ]
+              },
+              "7": {
+                "2": [
+                  130073
+                ]
+              },
+              "8": {
+                "4": [
+                  110061,
+                  130073
+                ]
+              },
+              "9": {
+                "2": [
+                  140079
+                ]
+              },
+              "10": {
+                "2": [
+                  20120
+                ]
+              },
+              "11": {
+                "4": [
+                  140079,
+                  20120
+                ]
+              },
+              "12": {
+                "4": [
+                  160091,
+                  170099,
+                  180103,
+                  190109
+                ]
+              },
+              "13": {
+                "2": [
+                  200139
+                ]
+              },
+              "14": {
+                "2": [
+                  30126
+                ]
+              },
+              "15": {
+                "2": [
+                  220150
+                ]
+              },
+              "16": {
+                "2": [
+                  230184
+                ]
+              },
+              "10101": {
+                "3": [
+                  101
+                ]
+              },
+              "10201": {
+                "3": [
+                  201
+                ]
+              },
+              "10301": {
+                "3": [
+                  301
+                ]
+              },
+              "10401": {
+                "3": [
+                  401
+                ]
+              },
+              "10501": {
+                "3": [
+                  501
+                ]
+              },
+              "10601": {
+                "3": [
+                  601
+                ]
+              },
+              "10701": {
+                "3": [
+                  701
+                ]
+              },
+              "10801": {
+                "3": [
+                  801
+                ]
+              },
+              "10802": {
+                "3": [
+                  802
+                ]
+              },
+              "10803": {
+                "3": [
+                  803
+                ]
+              },
+              "10804": {
+                "3": [
+                  804
+                ]
+              },
+              "10805": {
+                "3": [
+                  805
+                ]
+              },
+              "10806": {
+                "3": [
+                  806
+                ]
+              },
+              "10807": {
+                "3": [
+                  807
+                ]
+              },
+              "10808": {
+                "3": [
+                  808
+                ]
+              },
+              "10809": {
+                "3": [
+                  809
+                ]
+              },
+              "10810": {
+                "3": [
+                  810
+                ]
+              },
+              "10811": {
+                "3": [
+                  811
+                ]
+              },
+              "10812": {
+                "3": [
+                  812
+                ]
+              },
+              "10901": {
+                "3": [
+                  901
+                ]
+              },
+              "10902": {
+                "3": [
+                  902
+                ]
+              },
+              "10903": {
+                "3": [
+                  903
+                ]
+              },
+              "10904": {
+                "3": [
+                  904
+                ]
+              },
+              "10905": {
+                "3": [
+                  905
+                ]
+              },
+              "10906": {
+                "3": [
+                  906
+                ]
+              },
+              "10907": {
+                "3": [
+                  907
+                ]
+              },
+              "10908": {
+                "3": [
+                  908
+                ]
+              },
+              "10909": {
+                "3": [
+                  909
+                ]
+              },
+              "10910": {
+                "3": [
+                  910
+                ]
+              },
+              "10911": {
+                "3": [
+                  911
+                ]
+              },
+              "11001": {
+                "3": [
+                  1001
+                ]
+              },
+              "11002": {
+                "3": [
+                  1002
+                ]
+              },
+              "11003": {
+                "3": [
+                  1003
+                ]
+              },
+              "11004": {
+                "3": [
+                  1004
+                ]
+              },
+              "11005": {
+                "3": [
+                  1005
+                ]
+              },
+              "11006": {
+                "3": [
+                  1006
+                ]
+              },
+              "11007": {
+                "3": [
+                  1007
+                ]
+              },
+              "11008": {
+                "3": [
+                  1008
+                ]
+              },
+              "11009": {
+                "3": [
+                  1009
+                ]
+              },
+              "11010": {
+                "3": [
+                  1010
+                ]
+              },
+              "11101": {
+                "3": [
+                  1101
+                ]
+              },
+              "11102": {
+                "3": [
+                  1102
+                ]
+              },
+              "11103": {
+                "3": [
+                  1103
+                ]
+              },
+              "11104": {
+                "3": [
+                  1104
+                ]
+              },
+              "11105": {
+                "3": [
+                  1105
+                ]
+              },
+              "11106": {
+                "3": [
+                  1106
+                ]
+              },
+              "11107": {
+                "3": [
+                  1107
+                ]
+              },
+              "11108": {
+                "3": [
+                  1108
+                ]
+              },
+              "11109": {
+                "3": [
+                  1109
+                ]
+              },
+              "11110": {
+                "3": [
+                  1110
+                ]
+              },
+              "11111": {
+                "3": [
+                  1111
+                ]
+              },
+              "11112": {
+                "3": [
+                  1112
+                ]
+              },
+              "11201": {
+                "3": [
+                  1201
+                ]
+              },
+              "11202": {
+                "3": [
+                  1202
+                ]
+              },
+              "11203": {
+                "3": [
+                  1203
+                ]
+              },
+              "11204": {
+                "3": [
+                  1204
+                ]
+              },
+              "11301": {
+                "3": [
+                  1301
+                ]
+              },
+              "11302": {
+                "3": [
+                  1302
+                ]
+              },
+              "11303": {
+                "3": [
+                  1303
+                ]
+              },
+              "11304": {
+                "3": [
+                  1304
+                ]
+              },
+              "12001": {
+                "3": [
+                  2001
+                ]
+              },
+              "12002": {
+                "3": [
+                  2002
+                ]
+              },
+              "12003": {
+                "3": [
+                  2003
+                ]
+              },
+              "12004": {
+                "3": [
+                  2004
+                ]
+              },
+              "12005": {
+                "3": [
+                  2005
+                ]
+              },
+              "12006": {
+                "3": [
+                  2006
+                ]
+              },
+              "12007": {
+                "3": [
+                  2007
+                ]
+              },
+              "12008": {
+                "3": [
+                  2008
+                ]
+              },
+              "12009": {
+                "3": [
+                  2009
+                ]
+              },
+              "12010": {
+                "3": [
+                  2010
+                ]
+              },
+              "12011": {
+                "3": [
+                  2011
+                ]
+              },
+              "12012": {
+                "3": [
+                  2012
+                ]
+              },
+              "12013": {
+                "3": [
+                  2013
+                ]
+              },
+              "12014": {
+                "3": [
+                  2014
+                ]
+              },
+              "12015": {
+                "3": [
+                  2015
+                ]
+              },
+              "12016": {
+                "3": [
+                  2016
+                ]
+              },
+              "12017": {
+                "3": [
+                  2017
+                ]
+              },
+              "12018": {
+                "3": [
+                  2018
+                ]
+              },
+              "20001": {
+                "5": [
+                  3001
+                ]
+              },
+              "20002": {
+                "5": [
+                  3002
+                ]
+              },
+              "20003": {
+                "5": [
+                  3003
+                ]
+              }
+            },
+            "unlock_item": {
+              "101": {
+                "1": {
+                  "1": 100
+                }
+              },
+              "201": {
+                "1": {
+                  "2": 100
+                }
+              },
+              "301": {
+                "1": {
+                  "3": 1
+                }
+              },
+              "401": {
+                "1": {
+                  "4": 1
+                }
+              },
+              "501": {
+                "1": {
+                  "5": 1
+                }
+              },
+              "601": {
+                "1": {
+                  "6": 1
+                }
+              },
+              "701": {
+                "1": {
+                  "7": 100
+                }
+              },
+              "801": {
+                "1": {
+                  "8": 50
+                }
+              },
+              "802": {
+                "1": {
+                  "8": 100
+                }
+              },
+              "803": {
+                "1": {
+                  "8": 150
+                }
+              },
+              "804": {
+                "1": {
+                  "8": 200
+                }
+              },
+              "805": {
+                "1": {
+                  "8": 250
+                }
+              },
+              "806": {
+                "1": {
+                  "8": 300
+                }
+              },
+              "807": {
+                "1": {
+                  "8": 350
+                }
+              },
+              "808": {
+                "1": {
+                  "8": 400
+                }
+              },
+              "809": {
+                "1": {
+                  "8": 450
+                }
+              },
+              "810": {
+                "1": {
+                  "8": 500
+                }
+              },
+              "811": {
+                "1": {
+                  "8": 550
+                }
+              },
+              "812": {
+                "1": {
+                  "8": 600
+                }
+              },
+              "901": {
+                "1": {
+                  "9": 50
+                }
+              },
+              "902": {
+                "1": {
+                  "9": 100
+                }
+              },
+              "903": {
+                "1": {
+                  "9": 150
+                }
+              },
+              "904": {
+                "1": {
+                  "9": 200
+                }
+              },
+              "905": {
+                "1": {
+                  "9": 250
+                }
+              },
+              "906": {
+                "1": {
+                  "9": 300
+                }
+              },
+              "907": {
+                "1": {
+                  "9": 350
+                }
+              },
+              "908": {
+                "1": {
+                  "9": 400
+                }
+              },
+              "909": {
+                "1": {
+                  "9": 450
+                }
+              },
+              "910": {
+                "1": {
+                  "9": 500
+                }
+              },
+              "911": {
+                "1": {
+                  "9": 550
+                }
+              },
+              "1001": {
+                "1": {
+                  "10": 50
+                }
+              },
+              "1002": {
+                "1": {
+                  "10": 100
+                }
+              },
+              "1003": {
+                "1": {
+                  "10": 150
+                }
+              },
+              "1004": {
+                "1": {
+                  "10": 200
+                }
+              },
+              "1005": {
+                "1": {
+                  "10": 250
+                }
+              },
+              "1006": {
+                "1": {
+                  "10": 300
+                }
+              },
+              "1007": {
+                "1": {
+                  "10": 350
+                }
+              },
+              "1008": {
+                "1": {
+                  "10": 400
+                }
+              },
+              "1009": {
+                "1": {
+                  "10": 450
+                }
+              },
+              "1010": {
+                "1": {
+                  "10": 500
+                }
+              },
+              "1101": {
+                "1": {
+                  "11": 50
+                }
+              },
+              "1102": {
+                "1": {
+                  "11": 100
+                }
+              },
+              "1103": {
+                "1": {
+                  "11": 150
+                }
+              },
+              "1104": {
+                "1": {
+                  "11": 200
+                }
+              },
+              "1105": {
+                "1": {
+                  "11": 250
+                }
+              },
+              "1106": {
+                "1": {
+                  "11": 300
+                }
+              },
+              "1107": {
+                "1": {
+                  "11": 350
+                }
+              },
+              "1108": {
+                "1": {
+                  "11": 400
+                }
+              },
+              "1109": {
+                "1": {
+                  "11": 450
+                }
+              },
+              "1110": {
+                "1": {
+                  "11": 500
+                }
+              },
+              "1111": {
+                "1": {
+                  "11": 550
+                }
+              },
+              "1112": {
+                "1": {
+                  "11": 600
+                }
+              },
+              "1201": {
+                "1": {
+                  "12": 50
+                }
+              },
+              "1202": {
+                "1": {
+                  "12": 100
+                }
+              },
+              "1203": {
+                "1": {
+                  "12": 150
+                }
+              },
+              "1204": {
+                "1": {
+                  "12": 200
+                }
+              },
+              "1301": {
+                "1": {
+                  "13": 50
+                }
+              },
+              "1302": {
+                "1": {
+                  "13": 100
+                }
+              },
+              "1303": {
+                "1": {
+                  "13": 150
+                }
+              },
+              "1304": {
+                "1": {
+                  "13": 200
+                }
+              },
+              "2001": {
+                "1": {
+                  "9": 100,
+                  "13": 100
+                }
+              },
+              "2002": {
+                "1": {
+                  "8": 100,
+                  "10": 100
+                }
+              },
+              "2003": {
+                "1": {
+                  "10": 100,
+                  "12": 100
+                }
+              },
+              "2004": {
+                "1": {
+                  "8": 100,
+                  "12": 100
+                }
+              },
+              "2005": {
+                "1": {
+                  "9": 200,
+                  "11": 200,
+                  "13": 200
+                }
+              },
+              "2006": {
+                "1": {
+                  "8": 100,
+                  "9": 100
+                }
+              },
+              "2007": {
+                "1": {
+                  "12": 200,
+                  "13": 200
+                }
+              },
+              "2008": {
+                "1": {
+                  "8": 200,
+                  "9": 200,
+                  "10": 150,
+                  "11": 150,
+                  "12": 150,
+                  "13": 150
+                }
+              },
+              "2009": {
+                "1": {
+                  "9": 300,
+                  "10": 150,
+                  "11": 150,
+                  "12": 150,
+                  "13": 150
+                }
+              },
+              "2010": {
+                "1": {
+                  "8": 200,
+                  "9": 200
+                }
+              },
+              "2011": {
+                "1": {
+                  "8": 100,
+                  "9": 100,
+                  "10": 100,
+                  "11": 100,
+                  "12": 100,
+                  "13": 100
+                }
+              },
+              "2012": {
+                "1": {
+                  "9": 150,
+                  "10": 150,
+                  "11": 150,
+                  "12": 150,
+                  "13": 150
+                }
+              },
+              "2013": {
+                "1": {
+                  "10": 300,
+                  "11": 100,
+                  "12": 100,
+                  "13": 100
+                }
+              },
+              "2014": {
+                "1": {
+                  "8": 50,
+                  "9": 50,
+                  "11": 450,
+                  "12": 50
+                }
+              },
+              "2015": {
+                "1": {
+                  "8": 200,
+                  "9": 400
+                }
+              },
+              "2016": {
+                "1": {
+                  "8": 50,
+                  "10": 50,
+                  "11": 250,
+                  "12": 50,
+                  "13": 50
+                }
+              },
+              "2017": {
+                "1": {
+                  "8": 150,
+                  "10": 50,
+                  "11": 50,
+                  "12": 50,
+                  "13": 50
+                }
+              },
+              "2018": {
+                "1": {
+                  "8": 150,
+                  "9": 50,
+                  "11": 50,
+                  "13": 50
+                }
+              },
+              "3001": {
+                "7": {
+                  "1071002": 1
+                }
+              },
+              "3002": {
+                "4": {
+                  "1012025": 1
+                }
+              },
+              "3003": {
+                "7": {
+                  "1071020": 1
+                }
+              }
+            },
+            "reward": {
+              "101": {
+                "1": {
+                  "1": 20
+                }
+              },
+              "102": {
+                "1": {
+                  "1": 40
+                }
+              },
+              "103": {
+                "1": {
+                  "1": 100
+                }
+              },
+              "104": {
+                "1": {
+                  "1": 200
+                }
+              },
+              "105": {
+                "1": {
+                  "1": 250
+                }
+              },
+              "106": {
+                "1": {
+                  "1": 300
+                }
+              },
+              "107": {
+                "1": {
+                  "1": 350
+                }
+              },
+              "108": {
+                "1": {
+                  "1": 400
+                }
+              },
+              "109": {
+                "1": {
+                  "1": 450
+                }
+              },
+              "110": {
+                "1": {
+                  "1": 500
+                }
+              },
+              "111": {
+                "1": {
+                  "1": 550
+                }
+              },
+              "112": {
+                "1": {
+                  "1": 600
+                }
+              },
+              "113": {
+                "1": {
+                  "1": 650
+                }
+              },
+              "114": {
+                "1": {
+                  "1": 700
+                }
+              },
+              "115": {
+                "1": {
+                  "1": 750
+                }
+              },
+              "116": {
+                "1": {
+                  "1": 800
+                }
+              },
+              "117": {
+                "1": {
+                  "1": 850
+                }
+              },
+              "118": {
+                "1": {
+                  "1": 900
+                }
+              },
+              "119": {
+                "1": {
+                  "1": 950
+                }
+              },
+              "120": {
+                "1": {
+                  "1": 1000
+                }
+              },
+              "301": {
+                "1": {
+                  "3": 1
+                }
+              },
+              "401": {
+                "1": {
+                  "4": 1
+                }
+              },
+              "501": {
+                "1": {
+                  "5": 1
+                }
+              },
+              "601": {
+                "1": {
+                  "6": 1
+                }
+              },
+              "801": {
+                "1": {
+                  "8": 50
+                }
+              },
+              "802": {
+                "1": {
+                  "8": 100
+                }
+              },
+              "803": {
+                "1": {
+                  "8": 150
+                }
+              },
+              "804": {
+                "1": {
+                  "8": 200
+                }
+              },
+              "805": {
+                "1": {
+                  "8": 250
+                }
+              },
+              "899": {
+                "1": {
+                  "8": 1
+                }
+              },
+              "901": {
+                "1": {
+                  "9": 50
+                }
+              },
+              "902": {
+                "1": {
+                  "9": 100
+                }
+              },
+              "903": {
+                "1": {
+                  "9": 150
+                }
+              },
+              "904": {
+                "1": {
+                  "9": 200
+                }
+              },
+              "905": {
+                "1": {
+                  "9": 250
+                }
+              },
+              "1001": {
+                "1": {
+                  "10": 50
+                }
+              },
+              "1002": {
+                "1": {
+                  "10": 100
+                }
+              },
+              "1003": {
+                "1": {
+                  "10": 150
+                }
+              },
+              "1004": {
+                "1": {
+                  "10": 200
+                }
+              },
+              "1005": {
+                "1": {
+                  "10": 250
+                }
+              },
+              "1101": {
+                "1": {
+                  "11": 50
+                }
+              },
+              "1102": {
+                "1": {
+                  "11": 100
+                }
+              },
+              "1103": {
+                "1": {
+                  "11": 150
+                }
+              },
+              "1104": {
+                "1": {
+                  "11": 200
+                }
+              },
+              "1105": {
+                "1": {
+                  "11": 250
+                }
+              },
+              "1201": {
+                "1": {
+                  "12": 50
+                }
+              },
+              "1202": {
+                "1": {
+                  "12": 100
+                }
+              },
+              "1203": {
+                "1": {
+                  "12": 150
+                }
+              },
+              "1204": {
+                "1": {
+                  "12": 200
+                }
+              },
+              "1205": {
+                "1": {
+                  "12": 250
+                }
+              },
+              "1301": {
+                "1": {
+                  "13": 50
+                }
+              },
+              "1302": {
+                "1": {
+                  "13": 100
+                }
+              },
+              "1303": {
+                "1": {
+                  "13": 150
+                }
+              },
+              "1304": {
+                "1": {
+                  "13": 200
+                }
+              },
+              "1305": {
+                "1": {
+                  "13": 250
+                }
+              },
+              "11204": {
+                "2": {
+                  "11204": 3
+                }
+              },
+              "9114": {
+                "2": {
+                  "9114": 3
+                }
+              },
+              "13577": {
+                "2": {
+                  "13577": 3
+                }
+              },
+              "13578": {
+                "2": {
+                  "13578": 3
+                }
+              },
+              "13735": {
+                "2": {
+                  "13735": 3
+                }
+              },
+              "13580": {
+                "2": {
+                  "13580": 3
+                }
+              },
+              "12021": {
+                "2": {
+                  "12021": 3
+                }
+              },
+              "6900": {
+                "2": {
+                  "6900": 3
+                }
+              },
+              "5910": {
+                "2": {
+                  "5910": 3
+                }
+              },
+              "14845": {
+                "2": {
+                  "14845": 3
+                }
+              },
+              "14847": {
+                "2": {
+                  "14847": 3
+                }
+              },
+              "14846": {
+                "2": {
+                  "14846": 3
+                }
+              },
+              "8898": {
+                "2": {
+                  "8898": 3
+                }
+              },
+              "11532": {
+                "2": {
+                  "11532": 3
+                }
+              },
+              "11728": {
+                "2": {
+                  "11728": 3
+                }
+              },
+              "7008": {
+                "2": {
+                  "7008": 3
+                }
+              },
+              "4416": {
+                "2": {
+                  "4416": 3
+                }
+              },
+              "9285": {
+                "2": {
+                  "9285": 3
+                }
+              },
+              "15556": {
+                "2": {
+                  "15556": 3
+                }
+              },
+              "10883": {
+                "2": {
+                  "10883": 3
+                }
+              },
+              "9647": {
+                "2": {
+                  "9647": 3
+                }
+              },
+              "10157": {
+                "2": {
+                  "10157": 3
+                }
+              },
+              "13251": {
+                "2": {
+                  "13251": 3
+                }
+              },
+              "6117": {
+                "2": {
+                  "6117": 3
+                }
+              },
+              "12336": {
+                "2": {
+                  "12336": 3
+                }
+              },
+              "12135": {
+                "2": {
+                  "12135": 3
+                }
+              },
+              "12132": {
+                "2": {
+                  "12132": 3
+                }
+              },
+              "12133": {
+                "2": {
+                  "12133": 3
+                }
+              },
+              "12345": {
+                "2": {
+                  "12345": 3
+                }
+              },
+              "11559": {
+                "2": {
+                  "11559": 3
+                }
+              },
+              "11357": {
+                "2": {
+                  "11357": 3
+                }
+              },
+              "11541": {
+                "2": {
+                  "11541": 3
+                }
+              },
+              "13086": {
+                "2": {
+                  "13086": 3
+                }
+              },
+              "13089": {
+                "2": {
+                  "13089": 3
+                }
+              },
+              "13060": {
+                "2": {
+                  "13060": 3
+                }
+              },
+              "13061": {
+                "2": {
+                  "13061": 3
+                }
+              },
+              "13087": {
+                "2": {
+                  "13087": 3
+                }
+              },
+              "13096": {
+                "2": {
+                  "13096": 3
+                }
+              },
+              "13097": {
+                "2": {
+                  "13097": 3
+                }
+              },
+              "13088": {
+                "2": {
+                  "13088": 3
+                }
+              },
+              "13062": {
+                "2": {
+                  "13062": 3
+                }
+              },
+              "13274": {
+                "2": {
+                  "13274": 3
+                }
+              },
+              "13110": {
+                "2": {
+                  "13110": 3
+                }
+              },
+              "13290": {
+                "2": {
+                  "13290": 3
+                }
+              },
+              "13238": {
+                "2": {
+                  "13238": 3
+                }
+              },
+              "13391": {
+                "2": {
+                  "13391": 3
+                }
+              },
+              "13612": {
+                "2": {
+                  "13612": 3
+                }
+              },
+              "13570": {
+                "2": {
+                  "13570": 3
+                }
+              },
+              "13611": {
+                "2": {
+                  "13611": 3
+                }
+              },
+              "13625": {
+                "2": {
+                  "13625": 3
+                }
+              },
+              "6705": {
+                "2": {
+                  "6705": 3
+                }
+              },
+              "9769": {
+                "2": {
+                  "9769": 3
+                }
+              },
+              "9793": {
+                "2": {
+                  "9793": 3
+                }
+              },
+              "7591": {
+                "2": {
+                  "7591": 3
+                }
+              },
+              "7593": {
+                "2": {
+                  "7593": 3
+                }
+              },
+              "7723": {
+                "2": {
+                  "7723": 3
+                }
+              },
+              "13063": {
+                "2": {
+                  "13063": 3
+                }
+              },
+              "7643": {
+                "2": {
+                  "7643": 3
+                }
+              },
+              "10628": {
+                "2": {
+                  "10628": 3
+                }
+              },
+              "10505": {
+                "2": {
+                  "10505": 3
+                }
+              },
+              "10758": {
+                "2": {
+                  "10758": 3
+                }
+              },
+              "10954": {
+                "2": {
+                  "10954": 3
+                }
+              },
+              "6692": {
+                "2": {
+                  "6692": 3
+                }
+              },
+              "6693": {
+                "2": {
+                  "6693": 3
+                }
+              },
+              "10661": {
+                "2": {
+                  "10661": 3
+                }
+              },
+              "13963": {
+                "2": {
+                  "13963": 3
+                }
+              },
+              "206161": {
+                "2": {
+                  "206161": 1
+                }
+              },
+              "4343": {
+                "2": {
+                  "4343": 1
+                }
+              },
+              "4842": {
+                "2": {
+                  "4842": 1
+                }
+              },
+              "11563": {
+                "2": {
+                  "11563": 3
+                }
+              },
+              "5328": {
+                "2": {
+                  "5328": 1
+                }
+              },
+              "7645": {
+                "2": {
+                  "7645": 3
+                }
+              },
+              "205537": {
+                "2": {
+                  "205537": 1
+                }
+              },
+              "13730": {
+                "2": {
+                  "13730": 3
+                }
+              },
+              "13771": {
+                "2": {
+                  "13771": 3
+                }
+              },
+              "13731": {
+                "2": {
+                  "13731": 3
+                }
+              },
+              "13789": {
+                "2": {
+                  "13789": 3
+                }
+              },
+              "13957": {
+                "2": {
+                  "13957": 3
+                }
+              },
+              "13958": {
+                "2": {
+                  "13958": 3
+                }
+              },
+              "8232": {
+                "2": {
+                  "8232": 3
+                }
+              },
+              "16823": {
+                "2": {
+                  "16823": 3
+                }
+              },
+              "10288": {
+                "2": {
+                  "10288": 3
+                }
+              },
+              "11516": {
+                "2": {
+                  "11516": 3
+                }
+              },
+              "11322": {
+                "2": {
+                  "11322": 3
+                }
+              },
+              "7922": {
+                "2": {
+                  "7922": 3
+                }
+              },
+              "7003": {
+                "2": {
+                  "7003": 3
+                }
+              },
+              "6970": {
+                "2": {
+                  "6970": 3
+                }
+              },
+              "7007": {
+                "2": {
+                  "7007": 3
+                }
+              },
+              "9544": {
+                "2": {
+                  "9544": 3
+                }
+              },
+              "7133": {
+                "2": {
+                  "7133": 3
+                }
+              },
+              "7014": {
+                "2": {
+                  "7014": 3
+                }
+              },
+              "5287": {
+                "2": {
+                  "5287": 3
+                }
+              },
+              "7470": {
+                "2": {
+                  "7470": 3
+                }
+              },
+              "7471": {
+                "2": {
+                  "7471": 3
+                }
+              },
+              "14377": {
+                "2": {
+                  "14377": 3
+                }
+              },
+              "10396": {
+                "2": {
+                  "10396": 3
+                }
+              },
+              "7012": {
+                "2": {
+                  "7012": 3
+                }
+              },
+              "6618": {
+                "2": {
+                  "6618": 3
+                }
+              },
+              "6759": {
+                "2": {
+                  "6759": 3
+                }
+              },
+              "4353": {
+                "2": {
+                  "4353": 3
+                }
+              },
+              "5560": {
+                "2": {
+                  "5560": 3
+                }
+              },
+              "11428": {
+                "2": {
+                  "11428": 3
+                }
+              },
+              "5254": {
+                "2": {
+                  "5254": 3
+                }
+              },
+              "12505": {
+                "2": {
+                  "12505": 3
+                }
+              },
+              "12405": {
+                "2": {
+                  "12405": 3
+                }
+              },
+              "13457": {
+                "2": {
+                  "13457": 3
+                }
+              },
+              "14299": {
+                "2": {
+                  "14299": 3
+                }
+              },
+              "8493": {
+                "2": {
+                  "8493": 3
+                }
+              },
+              "9798": {
+                "2": {
+                  "9798": 3
+                }
+              },
+              "12025": {
+                "2": {
+                  "12025": 3
+                }
+              },
+              "10584": {
+                "2": {
+                  "10584": 3
+                }
+              },
+              "11053": {
+                "2": {
+                  "11053": 3
+                }
+              },
+              "7540": {
+                "2": {
+                  "7540": 3
+                }
+              },
+              "7960": {
+                "2": {
+                  "7960": 3
+                }
+              },
+              "9843": {
+                "2": {
+                  "9843": 3
+                }
+              },
+              "8186": {
+                "2": {
+                  "8186": 3
+                }
+              },
+              "16941": {
+                "2": {
+                  "16941": 3
+                }
+              },
+              "16940": {
+                "2": {
+                  "16940": 3
+                }
+              },
+              "16942": {
+                "2": {
+                  "16942": 3
+                }
+              },
+              "16634": {
+                "2": {
+                  "16634": 3
+                }
+              },
+              "11997": {
+                "2": {
+                  "11997": 3
+                }
+              },
+              "5915": {
+                "2": {
+                  "5915": 3
+                }
+              },
+              "5245": {
+                "2": {
+                  "5245": 3
+                }
+              },
+              "11403": {
+                "2": {
+                  "11403": 3
+                }
+              },
+              "10673": {
+                "2": {
+                  "10673": 3
+                }
+              },
+              "4992": {
+                "2": {
+                  "4992": 3
+                }
+              },
+              "4364": {
+                "2": {
+                  "4364": 3
+                }
+              },
+              "16824": {
+                "2": {
+                  "16824": 3
+                }
+              },
+              "14138": {
+                "2": {
+                  "14138": 3
+                }
+              },
+              "14153": {
+                "2": {
+                  "14153": 3
+                }
+              },
+              "14310": {
+                "2": {
+                  "14310": 3
+                }
+              },
+              "14527": {
+                "2": {
+                  "14527": 3
+                }
+              },
+              "14702": {
+                "2": {
+                  "14702": 3
+                }
+              },
+              "14688": {
+                "2": {
+                  "14688": 3
+                }
+              },
+              "14325": {
+                "2": {
+                  "14325": 3
+                }
+              },
+              "14149": {
+                "2": {
+                  "14149": 3
+                }
+              },
+              "14093": {
+                "2": {
+                  "14093": 3
+                }
+              },
+              "14648": {
+                "2": {
+                  "14648": 3
+                }
+              },
+              "14326": {
+                "2": {
+                  "14326": 3
+                }
+              },
+              "14089": {
+                "2": {
+                  "14089": 3
+                }
+              },
+              "17429": {
+                "2": {
+                  "17429": 3
+                }
+              },
+              "17468": {
+                "2": {
+                  "17468": 3
+                }
+              },
+              "6354": {
+                "2": {
+                  "6354": 3
+                }
+              },
+              "9140": {
+                "2": {
+                  "9140": 3
+                }
+              },
+              "4991": {
+                "2": {
+                  "4991": 3
+                }
+              },
+              "17824": {
+                "2": {
+                  "17824": 3
+                }
+              },
+              "6960": {
+                "2": {
+                  "6960": 3
+                }
+              },
+              "5213": {
+                "2": {
+                  "5213": 3
+                }
+              },
+              "8976": {
+                "2": {
+                  "8976": 3
+                }
+              },
+              "5544": {
+                "2": {
+                  "5544": 3
+                }
+              },
+              "1120001": {
+                "12": {
+                  "1120001": 1
+                }
+              },
+              "1120008": {
+                "12": {
+                  "1120008": 1
+                }
+              },
+              "1120009": {
+                "12": {
+                  "1120009": 1
+                }
+              },
+              "1120010": {
+                "12": {
+                  "1120010": 1
+                }
+              },
+              "1120011": {
+                "12": {
+                  "1120011": 1
+                }
+              },
+              "1120012": {
+                "12": {
+                  "1120012": 1
+                }
+              },
+              "1120013": {
+                "12": {
+                  "1120013": 1
+                }
+              },
+              "1120014": {
+                "12": {
+                  "1120014": 1
+                }
+              },
+              "1000002": {
+                "3": {
+                  "1000002": 1
+                }
+              },
+              "1000004": {
+                "3": {
+                  "1000004": 1
+                }
+              },
+              "1000009": {
+                "3": {
+                  "1000009": 1
+                }
+              },
+              "1000010": {
+                "3": {
+                  "1000010": 1
+                }
+              },
+              "1001004": {
+                "3": {
+                  "1001004": 1
+                }
+              },
+              "1000014": {
+                "3": {
+                  "1000014": 1
+                }
+              },
+              "1000015": {
+                "3": {
+                  "1000015": 1
+                }
+              },
+              "1001013": {
+                "3": {
+                  "1001013": 1
+                }
+              },
+              "1000007": {
+                "3": {
+                  "1000007": 1
+                }
+              },
+              "1001003": {
+                "3": {
+                  "1001003": 1
+                }
+              },
+              "1001020": {
+                "3": {
+                  "1001020": 1
+                }
+              },
+              "1012001": {
+                "4": {
+                  "1012001": 1
+                }
+              },
+              "1012002": {
+                "4": {
+                  "1012002": 1
+                }
+              },
+              "1012003": {
+                "4": {
+                  "1012003": 1
+                }
+              },
+              "1012004": {
+                "4": {
+                  "1012004": 1
+                }
+              },
+              "1012005": {
+                "4": {
+                  "1012005": 1
+                }
+              },
+              "1012006": {
+                "4": {
+                  "1012006": 1
+                }
+              },
+              "1012007": {
+                "4": {
+                  "1012007": 1
+                }
+              },
+              "1012008": {
+                "4": {
+                  "1012008": 1
+                }
+              },
+              "1012009": {
+                "4": {
+                  "1012009": 1
+                }
+              },
+              "1012010": {
+                "4": {
+                  "1012010": 1
+                }
+              },
+              "1012011": {
+                "4": {
+                  "1012011": 1
+                }
+              },
+              "1012012": {
+                "4": {
+                  "1012012": 1
+                }
+              },
+              "1012013": {
+                "4": {
+                  "1012013": 1
+                }
+              },
+              "1012014": {
+                "4": {
+                  "1012014": 1
+                }
+              },
+              "1012015": {
+                "4": {
+                  "1012015": 1
+                }
+              },
+              "1012016": {
+                "4": {
+                  "1012016": 1
+                }
+              },
+              "1012017": {
+                "4": {
+                  "1012017": 1
+                }
+              },
+              "1012018": {
+                "4": {
+                  "1012018": 1
+                }
+              },
+              "1012019": {
+                "4": {
+                  "1012019": 1
+                }
+              },
+              "1012020": {
+                "4": {
+                  "1012020": 1
+                }
+              },
+              "1012021": {
+                "4": {
+                  "1012021": 1
+                }
+              },
+              "1012026": {
+                "4": {
+                  "1012026": 1
+                }
+              },
+              "1012024": {
+                "4": {
+                  "1012024": 1
+                }
+              },
+              "1012022": {
+                "4": {
+                  "1012022": 1
+                }
+              },
+              "1012023": {
+                "4": {
+                  "1012023": 1
+                }
+              },
+              "1012027": {
+                "4": {
+                  "1012027": 1
+                }
+              },
+              "1012028": {
+                "4": {
+                  "1012028": 1
+                }
+              },
+              "1012029": {
+                "4": {
+                  "1012029": 1
+                }
+              },
+              "1012030": {
+                "4": {
+                  "1012030": 1
+                }
+              },
+              "1012031": {
+                "4": {
+                  "1012031": 1
+                }
+              },
+              "1012032": {
+                "4": {
+                  "1012032": 1
+                }
+              },
+              "1012033": {
+                "4": {
+                  "1012033": 1
+                }
+              },
+              "1012034": {
+                "4": {
+                  "1012034": 1
+                }
+              },
+              "1012036": {
+                "4": {
+                  "1012036": 1
+                }
+              },
+              "1012037": {
+                "4": {
+                  "1012037": 1
+                }
+              },
+              "1010009": {
+                "4": {
+                  "1010009": 1
+                }
+              },
+              "1012038": {
+                "4": {
+                  "1012038": 1
+                }
+              },
+              "1012042": {
+                "4": {
+                  "1012042": 1
+                }
+              },
+              "1012046": {
+                "4": {
+                  "1012046": 1
+                }
+              },
+              "1012045": {
+                "4": {
+                  "1012045": 1
+                }
+              },
+              "1012044": {
+                "4": {
+                  "1012044": 1
+                }
+              },
+              "1012025": {
+                "4": {
+                  "1012025": 1
+                }
+              },
+              "1012047": {
+                "4": {
+                  "1012047": 1
+                }
+              },
+              "1012048": {
+                "4": {
+                  "1012048": 1
+                }
+              },
+              "1012051": {
+                "4": {
+                  "1012051": 1
+                }
+              },
+              "1012052": {
+                "4": {
+                  "1012052": 1
+                }
+              },
+              "1020012": {
+                "5": {
+                  "1020012": 1
+                }
+              },
+              "1070002": {
+                "7": {
+                  "1070002": 1
+                }
+              },
+              "1071001": {
+                "7": {
+                  "1071001": 1
+                }
+              },
+              "1071002": {
+                "7": {
+                  "1071002": 1
+                }
+              },
+              "1071003": {
+                "7": {
+                  "1071003": 1
+                }
+              },
+              "1071007": {
+                "7": {
+                  "1071007": 1
+                }
+              },
+              "1071006": {
+                "7": {
+                  "1071006": 1
+                }
+              },
+              "1071008": {
+                "7": {
+                  "1071008": 1
+                }
+              },
+              "1071009": {
+                "7": {
+                  "1071009": 1
+                }
+              },
+              "1071010": {
+                "7": {
+                  "1071010": 1
+                }
+              },
+              "1071011": {
+                "7": {
+                  "1071011": 1
+                }
+              },
+              "1071012": {
+                "7": {
+                  "1071012": 1
+                }
+              },
+              "1071013": {
+                "7": {
+                  "1071013": 1
+                }
+              },
+              "1071014": {
+                "7": {
+                  "1071014": 1
+                }
+              },
+              "1071019": {
+                "7": {
+                  "1071019": 1
+                }
+              },
+              "1071018": {
+                "7": {
+                  "1071018": 1
+                }
+              },
+              "1071020": {
+                "7": {
+                  "1071020": 1
+                }
+              },
+              "1071021": {
+                "7": {
+                  "1071021": 1
+                }
+              },
+              "1071023": {
+                "7": {
+                  "1071023": 1
+                }
+              },
+              "1071024": {
+                "7": {
+                  "1071024": 1
+                }
+              },
+              "1090006": {
+                "9": {
+                  "1090006": 1
+                }
+              },
+              "1090007": {
+                "9": {
+                  "1090007": 1
+                }
+              },
+              "1111001": {
+                "11": {
+                  "1111001": 1
+                }
+              },
+              "1111002": {
+                "11": {
+                  "1111002": 1
+                }
+              },
+              "1110006": {
+                "11": {
+                  "1110006": 1
+                }
+              },
+              "1111003": {
+                "11": {
+                  "1111003": 1
+                }
+              },
+              "1111005": {
+                "11": {
+                  "1111005": 1
+                }
+              },
+              "1111007": {
+                "11": {
+                  "1111007": 1
+                }
+              },
+              "1111016": {
+                "11": {
+                  "1111016": 1
+                }
+              },
+              "1140101": {
+                "14": {
+                  "1140001": 1
+                }
+              },
+              "1140102": {
+                "14": {
+                  "1140001": 2
+                }
+              },
+              "1140103": {
+                "14": {
+                  "1140001": 3
+                }
+              },
+              "1140104": {
+                "14": {
+                  "1140001": 4
+                }
+              },
+              "1101002": {
+                "10": {
+                  "1101002": 1
+                }
+              },
+              "1101001": {
+                "10": {
+                  "1101001": 1
+                }
+              },
+              "1100006": {
+                "10": {
+                  "1100006": 1
+                }
+              }
+            }
+          }
+        }
+      },
+      0,
+      0
+    ]
+  ],
+  "remove": [
+    "Master.Solo",
+    "Solo"
+  ]
+}
